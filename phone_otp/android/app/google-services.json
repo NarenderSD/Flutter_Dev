@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684646256207",
+    "project_id": "phone-firebase-d613d",
+    "storage_bucket": "phone-firebase-d613d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684646256207:android:72a1c60756f47a723aa43a",
+        "android_client_info": {
+          "package_name": "com.example.phone_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC26gvYmhwi4gXQC4yuqnpNREZZozPTS0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
