@@ -45,7 +45,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     getDeatils();
     return Scaffold(
-      appBar: AppBar(
+      appBar: AppBar(      //AppBar
         backgroundColor: Colors.red,
         leading: IconButton(
           icon: Icon(
